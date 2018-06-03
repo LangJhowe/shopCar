@@ -1,0 +1,31 @@
+{
+  "allShops":{
+    "totalMoney":0,
+    "shopList":[
+      {
+        "shopId":"1001",
+        "shopName":"优仙果 海南小贵妃芒果 热带新鲜芒果 4斤装 单果 80-150g  新鲜水果",
+        "shopPrice":26.90,
+        "shopNumber":1,
+        "shopImage":"static/img/1.jpg",
+        "shopChecked":true
+      },
+      {
+        "shopId":"1002",
+        "shopName":"苏洪鲜食 佳沛黄心奇异果 金果12个",
+        "shopPrice":79.00,
+        "shopNumber":2,
+        "shopImage":"static/img/2.jpg",
+        "shopChecked":false
+      },
+      {
+        "shopId":"1003",
+        "shopName":"七匹狼（SEPTWOLVES）钱包男士短款真皮商务休闲头层牛皮钱夹多卡位横款皮夹 黑色横款",
+        "shopPrice":79.00,
+        "shopNumber":1,
+        "shopImage":"static/img/3.jpg",
+        "shopChecked":false
+      }
+    ]
+  }
+}
